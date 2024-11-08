@@ -23,7 +23,7 @@ This is a simple Flask application to chat with Llama3.2 model locally to analyz
 
    ```bash
    python3 -m venv venv
-   source venv/bin/activate  # On Windows, use \`venv\Scripts\activate\`
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    ```
 
 3. **Install the required dependencies**:
