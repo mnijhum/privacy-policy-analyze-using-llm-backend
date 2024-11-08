@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Flask instance folder and database files
+instance/
+*.sqlite3
+*.db
+
+# Environment variables and secret keys
+.env
+*.env
+
+# Virtual environments
+venv/
+env/
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Byte-compiled / optimized / compiled files
+*.egg-info/
+*.egg
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.pid
+*.out
+*.tmp
+*.swp
