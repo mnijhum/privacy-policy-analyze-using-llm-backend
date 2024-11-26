@@ -32,7 +32,7 @@ This is a simple Flask application to chat with Llama3.2 model locally to analyz
    pip install -r requirements.txt
    ```
 
-   If you don't have a `requirements.txt` file, you can install Flask directly:
+   If the `requirements.txt` file does not work and you see a missing module error, you can install **Flask** directly:
 
    ```bash
    pip install Flask
@@ -72,5 +72,9 @@ This is a simple Flask application to chat with Llama3.2 model locally to analyz
    if __name__ == "__main__":
        app.run(host="0.0.0.0", port=5000)
    ```
+
+## Demo
+
+- Find the Demo video of this project at: https://youtu.be/LjPMqBcdvzU
 
 
